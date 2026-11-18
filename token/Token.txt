@@ -1,0 +1,22 @@
+int : Keyword
+main : Identifier
+( : Punctuation
+) : Punctuation
+{ : Punctuation
+int : Keyword
+x : Identifier
+; : Punctuation
+x : Identifier
+= : Operator
+10 : Constant
+; : Punctuation
+float : Keyword
+y : Identifier
+= : Operator
+2.5 : Constant
+; : Punctuation
+cout : Identifier
+<< : Operator
+"Hello World" : String Constant
+; : Punctuation
+} : Punctuation
